@@ -9,3 +9,8 @@
   "header header"
   "nav cont";
 }
+
+.app-wrapper-content {
+  grid-area: cont;
+  background-color: mediumaquamarine;
+}
